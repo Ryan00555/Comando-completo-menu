@@ -1,0 +1,6 @@
+client.sendMessage(video: fs.readFileSync('./pasta1/menu.mp3'), mimetype, 'video/mp4', ptt: true,
+caption:
+`
+bla
+
+`})
